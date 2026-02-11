@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "God only know",
+  "base_artist": "Oratorio The World God Only Knows",
+  "createdAt": "2026-02-11T14:00:25.386384Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "God only knows",
+      "artist": "Oratorio The World God Only Knows",
+      "has_synced": false,
+      "path": "select/pl_01_God_only_knows_Oratorio_The_World_God_Only_Knows.txt"
+    }
+  ]
+}
